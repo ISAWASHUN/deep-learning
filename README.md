@@ -1,1 +1,2 @@
-# deep-learning
+# [内容]
+・Deep Learningの基礎的な部分をコードに書いて、勉強しています。
